@@ -1,4 +1,5 @@
 # Snakes & Ladders
+[![HitCount](http://hits.dwyl.io/algomaster99/snakes-and-ladders.svg)](http://hits.dwyl.io/algomaster99/snakes-and-ladder)
 
 [![](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://github.com/algomaster99/)
 
